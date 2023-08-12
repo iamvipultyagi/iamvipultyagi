@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iamvipultyagi
 - 👀 I’m interested in ...java programing
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...Python, Django
+- 
 - 💞️ I’m looking to collaborate on ...java
 - 📫 How to reach me ...
 
