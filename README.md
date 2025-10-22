@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamvipultyagi
-- 👀 I’m interested in ...java programming, DSA
-- 🌱 I’m currently learning ...Python, MongoDB
+- 👀 I’m interested in ... Full Stack development
+- 🌱 I’m currently learning ... Node.js, Express.js, MongoDB
 - 
 - 📫 How to reach me ...
--  Linkedin: https://www.linkedin.com/in/vipul-tyagi-a5a574203/
+-  Linkedin: https://www.linkedin.com/in/vipul-tyagi399/
